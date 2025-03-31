@@ -162,4 +162,4 @@ async def on_ready():
 
     print(f"Bot zalogowany jako {bot.user}")
 
-bot.run("MTM1NTI1ODI1NTM5NTUyNDgyOA.GaihKk.AVUyhJXRRQweagqIL2Jr3kRS9VnkbWsQycLQEM")
+bot.run("MTM1NTI1ODI1NTM5NTUyNDgyOA.Gjdjfi._bgCYXCMTeIVPiVe6ipf5txaG7nLgCBlc-XSpc")
